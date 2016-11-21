@@ -7,6 +7,6 @@
 ## Identitas
 - Nama : Muhamad Iqbal Samudra
 - Kelas : XI RPL 5
-- No Urut : 30
+- No Urut : 20
 - NIS : 4762/1481.070 
 - Nama Sekolah : SMK Telkom Malang
